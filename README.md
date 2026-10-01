@@ -44,6 +44,13 @@
 | 🏰 **[Ashen Kingdoms](https://github.com/facei7505-droid/LOTR)** · [play ▶](https://facei7505-droid.github.io/LOTR/) | A 3D real-time strategy game in the browser: 6 factions, heroes, online multiplayer, AI opponent. Custom engine, about 8.6k lines of JS | JavaScript, three.js, WebGL, PWA, Playwright |
 | 🏙️ **[Shymkent Hub](https://github.com/facei7505-droid/shymhub)** · [demo ↗](https://shymhub.vercel.app/) | A civic platform where residents rank city problems head-to-head with an Elo rating, shown on a city map | React, TypeScript, FastAPI, JWT, Docker |
 
+### 🤝 Team projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🧑‍🔧 **[SynapKor](https://github.com/arna0/synapk0r)** · [demo ▶](https://arna0.github.io/synapk0r/) | **VentureHack 2026, EdTech track.** A first-person 3D career simulator: try a job (IT engineer, doctor, safety engineer, barista) and get a skills report. Tested with real users | JavaScript, 3D in the browser, backend + mobile |
+| 🏫 **[second-team-hack](https://github.com/Bebdyshev/second-team-hack)** | Hackathon team project. I worked on the Go backend: authentication, data models, and the core API endpoints | Go, REST API |
+
 ---
 
 <p align="center"><i>Have an internship or a project in mind? Message me on <a href="https://t.me/makakke4">Telegram</a>.</i></p>
